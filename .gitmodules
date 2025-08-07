@@ -1,0 +1,6 @@
+[submodule "ESTUDANTES/estudantes-codigo"]
+	path = ESTUDANTES/estudantes-codigo
+	url = https://github.com/KillianDB/estudantes-codigo
+[submodule "ESTUDANTES/colecao"]
+	path = ESTUDANTES/colecao
+	url = https://github.com/KillianDB/colecao-generico-codigo
